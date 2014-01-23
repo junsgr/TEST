@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1,7 +0,0 @@
+-<html>
+-<head><title>First step on github</title></head>
+-<body>
+-<h3>My Homepage</h3>
+-<img src="./img/sagara.jpg" width=240>
+-</body>
+-</html>
